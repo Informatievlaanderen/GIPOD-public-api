@@ -11,7 +11,7 @@ On november 23 2020 the current public api (https://api.gipod.vlaanderen.be/) wi
 
 ## Support
 
-Comminucation to the outside world about the public API will be done trough this repository. You are also welcome to do suggestions or ask questions. If you wish you can add code examples on using this API to this repository using pull requests, or provide links.
+Communication to the outside world about the public API will be done trough this repository. You are also welcome to do suggestions or ask questions. If you wish you can add code examples on using this API to this repository using pull requests, or provide links.
 
 ## Disclaimer
 
