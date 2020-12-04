@@ -5,9 +5,9 @@ Information about the new Public API can be found on our [cocreation site](https
 
 ## Timeline
 
-In 2020 the new public API will become available on a beta and staging environment, and rolled out into production shortly after.
+In 2021 the new public API will become available on a beta and staging environment, and rolled out into production shortly after.
 
-On january 21 2021 the current public api (https://api.gipod.vlaanderen.be/) will no longer be available or maintained.
+The current public api (https://api.gipod.vlaanderen.be/) will be available during a transition period. Data from the new GIPOD will automatically flow to the existing current public API.
 
 ## Support
 
