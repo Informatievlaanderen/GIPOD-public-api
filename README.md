@@ -1,13 +1,9 @@
-# GIPOD² public API
-The [GIPOD](https://overheid.vlaanderen.be/informatie-vlaanderen/producten-diensten/generiek-informatieplatform-openbaar-domein-gipod) platform is being renewed during the period 2019-2021. Part of the renewal is a new public api, where the GIPOD information is made available to the public as open data.
+# GIPOD public API
+The [GIPOD](https://www.vlaanderen.be/digitaal-vlaanderen/onze-oplossingen/generiek-informatieplatform-openbaar-domein-gipod) platform is being renewed during the period 2019-2023. Part of the renewal is a new public api, where the GIPOD information is made available to the public as open data.
 
-Information about the new Public API can be found on our [cocreation site](https://vlaamseoverheid.atlassian.net/wiki/spaces/NGC/pages/1851031592/Public+API+-+DRAFT) in dutch.
+All latest information about the GIPOD open data and public API's can be found on our [co-creation page](https://vlaamseoverheid.atlassian.net/wiki/spaces/NGC/pages/6149669482/Open+data+-+public+API).
 
-## Timeline
 
-In 2021 the new public API will become available on a beta and staging environment, and rolled out into production shortly after.
-
-The current public api (https://api.gipod.vlaanderen.be/) will be available during a transition period. Data from the new GIPOD will automatically flow to the existing current public API.
 
 ## Support
 
