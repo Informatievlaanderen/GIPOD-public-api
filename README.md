@@ -1,9 +1,7 @@
 # GIPOD public API
-The [GIPOD](https://www.vlaanderen.be/digitaal-vlaanderen/onze-oplossingen/generiek-informatieplatform-openbaar-domein-gipod) platform is being renewed during the period 2019-2023. Part of the renewal is a new public api, where the GIPOD information is made available to the public as open data.
+GIPOD offers open data in the form of OGC services (WMS, WFS, API Features), and a LDES (Linked Data Event Stream).
 
 All latest information about the GIPOD open data and public API's can be found on our [co-creation page](https://vlaamseoverheid.atlassian.net/wiki/spaces/NGC/pages/6149669482/Open+data+-+public+API).
-
-
 
 ## Support
 
